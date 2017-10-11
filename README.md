@@ -1,6 +1,6 @@
 #Pitanje 1
-Nastao je file ClassLibrary.dll, koji slući kao proširenje aplikacije. U slučaju da ga
-izbrišemo, izvršni .exe assemblij nebi radio.
+Nastao je file ClassLibrary.dll, koji služi kao proširenje aplikacije. U slučaju da ga
+izbrišemo, izvršni .exe assemblij nebi više radio.
 
 #Pitanje 2
 Prikazala je stari string, jer iako smo 'saveali' file, bez buildanja ne nastaje novi
